@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello from Hell
 Hello Man
+=======
+Test Git Quick Start Demo
+>>>>>>> 56d246741f281cf11d574e4187824c5c35b81f93
